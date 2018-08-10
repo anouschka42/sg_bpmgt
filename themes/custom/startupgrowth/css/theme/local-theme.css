@@ -1,0 +1,157 @@
+/**
+ * @file
+ * Use this CSS file to override theme CSS rules
+ */
+
+ i.fa.fa-phone a {
+    padding-left: 17px;
+}
+
+i.fa.fa-phone {
+    margin-left: 13px;
+}
+
+ ul.sf-menu a, ul.sf-menu span.nolink {
+    display: block;
+    padding: 0em 1.5em;
+    position: relative;
+}
+
+div#block-startupgrowth-branding {
+    padding-top: 14px;
+    padding-bottom: 0;
+}
+div#block-contactcta-2 {
+    font-size: 128%;
+    padding-top: 0;
+}
+/* buttons */
+  .btn-default{
+    color: white;
+    background-color: #961300;
+    border-color: #961300;
+}
+
+ .slideshow-banner-text h1 {
+    font-size: 7rem;
+}
+ .slideshow-banner-text h2 {
+    font-size: 145%;
+    font-weight: bold;
+}
+ .slideshow-banner-text h3  {
+    font-size: 115%;
+}
+ .slideshow-banner-text h4 {
+    font-size: 80%;
+}
+
+
+ .slideshow-banner-text-2 h1 {
+    font-size: 7rem;
+}
+ .slideshow-banner-text-2 h2 {
+    font-size: 6rem;
+    font-weight: bold;
+}
+ .slideshow-banner-text-2 h3  {
+    font-size: 4rem;
+}
+ .slideshow-banner-text-2 h4 {
+    font-size: 2.8rem;
+}
+
+div#block-views-block-mt-articles-block-1 {
+    border: 1px dashed gray;
+    padding: 1em;
+}
+
+ .bpm-slider-text{
+    text-align: center;
+    font-size:300%;
+      z-index: 40;
+   max-width: 80%;
+position: absolute;
+  height: 80%;
+  left: 20%;
+  top: 10%;
+  right: 20%;
+ }
+
+.banner {
+    overflow: hidden;
+}
+
+.slider-revolution-wrapper {
+  position: relative;
+  z-index: -20;
+  width: 100%;
+}
+
+
+
+div#block-siteslogan-3 h3.red {
+margin-top: 0;
+}
+
+strong{
+    font-weight: bold;
+    color: #961300;
+}
+
+.page-node-type-page .view-testimonials--highlighted .views-field-body p {
+    font-size: 17px;
+    padding: 10px 0;
+}
+
+.header-inside {
+    padding: 10px 0 10px;
+    position: relative;
+}
+
+div#block-siteslogan-3 h3 {
+    font-size: 24px;
+    position: relative;
+    text-align: center;
+    top: -7px;
+    left: -52px;
+}
+
+.title-teaser-text .title a:hover {
+  color: #dd1d00;
+  text-decoration: none;
+  cursor: default;
+}
+
+.site-name.site-branding__name a {
+	font-size: 31px;
+    color: #3f3f3f;
+    font-family: 'Roboto Slab', Trebuchet MS, sans-serif;
+    position: relative;
+    top: 9px;
+}
+
+.clearfix.text-formatted.field.field--name-body.field--type-text-with-summary.field--label-hidden.field__item.quickedit-field {
+    position: relative;
+}
+
+.cta-button-header a.button.pull-right, a#cta_button_3378310_c0ed529b-817d-4016-954a-c25162274b8f{
+    position: relative;
+    top: -2px;
+    padding: 10px 18px;
+    float: right;
+    text-transform: none;
+    font-family: 'Roboto Slab', Trebuchet MS, sans-serif;
+}
+
+}
+
+.header-inside-second {
+    padding: 0 0 0px 0;
+}
+
+.header-inside {
+    padding: 0px 0 0px;
+    position: relative;
+}
+
